@@ -22,8 +22,6 @@ public class MainActivity extends AppCompatActivity {
             case R.id.btnStop:
                 stopService(new Intent(this, MusicService.class));
                 break;
-            default:
-                break;
         }
     }
 
