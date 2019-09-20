@@ -1,6 +1,8 @@
 package com.example.servicemusic;
 
-public class Waning extends Object{
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Waning extends AppCompatActivity {
     
     public void Waning(){
 
